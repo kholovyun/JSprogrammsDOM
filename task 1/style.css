@@ -1,0 +1,12 @@
+#add-item-btn {
+    width: 200px;
+    height: 70px;
+    background-color: green;
+    font-size: 50px;
+    border: none;
+    color: white;
+}
+.element{
+    font-size: 40px;
+    color: green;
+}

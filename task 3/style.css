@@ -1,0 +1,26 @@
+.container {
+   max-width: 500px;
+   margin: 0 auto; 
+   text-align: center;
+   padding-top: 5em;
+}
+#minutes,
+#seconds,
+#double__dot{
+    font-size: 100px;
+}
+button{
+    width: 100px;
+    height: 60px;
+    background-color: cadetblue;
+    border: none;
+    transition: all 0.2s ease-in-out;
+    margin-top: 30px;
+}
+button:nth-child(3){
+    margin-left: 3em;
+    margin-right: 3em;
+}
+button:hover{
+    background-color: chartreuse;
+}
